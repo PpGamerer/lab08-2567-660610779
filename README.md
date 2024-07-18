@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : พิมลนาฏ แก้วบุตร
 
-Vercel URL : lab08-2567-660610779.vercel.app
+Vercel URL : https://lab08-2567-660610779.vercel.app/
 ---
 
 ให้นักศึกษาสร้างหน้าเว็บ frontend ที่แสดงหน้า Mockup (จำลอง) ของ Todo List App โดยใช้ความรู้เรื่อง React และการแบ่ง Component แบบพื้นฐาน
